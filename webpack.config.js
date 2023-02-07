@@ -10,7 +10,7 @@ module.exports = {
         port: 3010,
     },
     output: {
-        path: path.join(__dirname, 'dist'),
+        path: path.join(__dirname, 'build'),
         filename: 'index.[contenthash].js',
         publicPath: '',
       },
