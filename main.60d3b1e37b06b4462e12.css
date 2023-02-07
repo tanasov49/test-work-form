@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'Manrope';
+    src: url(assets/fonts/3079dc07ea69ca354603.eot]);
+    src: url(assets/fonts/3079dc07ea69ca354603.eot]?#iefix) format('embedded-opentype'),
+        url(assets/fonts/b8e4fc408760a02a5c84.woff2]) format('woff2'),
+        url(assets/fonts/9bd3449662ab5558992a.woff]) format('woff'),
+        url(assets/fonts/708827ef7f5a37ae330d.ttf]) format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url(assets/fonts/0d920c4d6ed87515afb2.eot]);
+    src: url(assets/fonts/0d920c4d6ed87515afb2.eot]?#iefix) format('embedded-opentype'),
+        url(assets/fonts/bfc4033bf77be1adec8a.woff2]) format('woff2'),
+        url(assets/fonts/e87eff17fbd788c39558.woff]) format('woff'),
+        url(assets/fonts/4416f774ecda3eb111f0.ttf]) format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url(assets/fonts/135592bdcde6fb4228ee.eot]);
+    src: url(assets/fonts/135592bdcde6fb4228ee.eot]?#iefix) format('embedded-opentype'),
+        url(assets/fonts/230210f79765501c1ab7.woff2]) format('woff2'),
+        url(assets/fonts/455e3f5bb2cbb93667d5.woff]) format('woff'),
+        url(assets/fonts/78617ce2a6a4e9d9f36e.ttf]) format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url(assets/fonts/e113b31bea296d5d752e.eot]);
+    src: url(assets/fonts/e113b31bea296d5d752e.eot]?#iefix) format('embedded-opentype'),
+        url(assets/fonts/536c57e6662544ecdbe0.woff2]) format('woff2'),
+        url(assets/fonts/7ddd8c0dc34c005ef95e.woff]) format('woff'),
+        url(assets/fonts/d1ff03dd3337b15dbadf.ttf]) format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url(assets/fonts/08b3000b995f4fdccf7c.eot]);
+    src: url(assets/fonts/08b3000b995f4fdccf7c.eot]?#iefix) format('embedded-opentype'),
+        url(assets/fonts/45721b3429a1fa90f750.woff2]) format('woff2'),
+        url(assets/fonts/a716e35a52599b8145e4.woff]) format('woff'),
+        url(assets/fonts/c5b5af003b93c0c9a2ea.ttf]) format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Manrope';
+    src: url(assets/fonts/d9a9a709e99ed578e0a2.eot]);
+    src: url(assets/fonts/d9a9a709e99ed578e0a2.eot]?#iefix) format('embedded-opentype'),
+        url(assets/fonts/15e344c414d52dd672ef.woff2]) format('woff2'),
+        url(assets/fonts/d1384c3221d6bf5c6f29.woff]) format('woff'),
+        url(assets/fonts/fa5192ac22e523632fc4.ttf]) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:block}h1{font-size:2em;margin:.67em 0}hr{-webkit-box-sizing:content-box;box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:rgba(0,0,0,0)}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline;-webkit-text-decoration:underline dotted currentColor;text-decoration:underline dotted currentColor}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-0.25em}sup{top:-0.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}button,[type=button],[type=reset],[type=submit]{-webkit-appearance:button}button::-moz-focus-inner,[type=button]::-moz-focus-inner,[type=reset]::-moz-focus-inner,[type=submit]::-moz-focus-inner{border-style:none;padding:0}button:-moz-focusring,[type=button]:-moz-focusring,[type=reset]:-moz-focusring,[type=submit]:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{-webkit-box-sizing:border-box;box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type=checkbox],[type=radio]{-webkit-box-sizing:border-box;box-sizing:border-box;padding:0}[type=number]::-webkit-inner-spin-button,[type=number]::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}[type=search]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}template{display:none}[hidden]{display:none}.page{max-width:1600px}.popup{position:fixed;top:0;left:0;width:100vw;height:100vh}.popup-container{position:absolute;top:151px;left:50%;-webkit-transform:translate(-50%, 0);transform:translate(-50%, 0)}.form-change-password{background:#fff;-webkit-box-shadow:4px 4px 25px rgba(14,76,121,.18);box-shadow:4px 4px 25px rgba(14,76,121,.18);border-radius:10px;padding:40px 50px;width:500px;max-width:100%;-webkit-box-sizing:border-box;box-sizing:border-box;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:center;-ms-flex-align:center;align-items:center}@media screen and (max-width: 1024px){.form-change-password{max-width:350px}}.logo__image{width:128px;height:30px}.form-change-password__title{font-weight:600;font-size:28px;line-height:38px;color:#2b689b;margin:40px 0 0 0}@media screen and (max-width: 1024px){.form-change-password__title{font-size:20px;line-height:140%}}.form-change-password__field{width:100%;height:35px;position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;margin:50px 0 0 0}.form-change-password__input{border:none;border-bottom:1px solid #2b689b;padding:10px;position:relative}.form-change-password__input::-webkit-input-placeholder{color:#6b95b9;font-size:18px}.form-change-password__input::-moz-placeholder{color:#6b95b9;font-size:18px}.form-change-password__input:-ms-input-placeholder{color:#6b95b9;font-size:18px}.form-change-password__input::-ms-input-placeholder{color:#6b95b9;font-size:18px}.form-change-password__input::placeholder{color:#6b95b9;font-size:18px}@media screen and (max-width: 1024px){.form-change-password__input::-webkit-input-placeholder{font-size:15px;line-height:140%}.form-change-password__input::-moz-placeholder{font-size:15px;line-height:140%}.form-change-password__input:-ms-input-placeholder{font-size:15px;line-height:140%}.form-change-password__input::-ms-input-placeholder{font-size:15px;line-height:140%}.form-change-password__input::placeholder{font-size:15px;line-height:140%}}.form-change-password__input:focus{outline:none;border-bottom:1px solid #40ba5f;color:#292a2c;background:rgba(0,0,0,0)}.form-change-password__input:focus+.form-change-password__placeholder{opacity:0}.form-change-password__placeholder{font-weight:400;position:absolute;font-size:18px;line-height:140%;color:#6b95b9;opacity:1}.form-change-password__placeholder::before{content:"*";padding:0 5px 0 0;color:#ffb6c1}@media screen and (max-width: 1024px){.form-change-password__placeholder{font-size:15px;line-height:140%}}.form-change-password__placeholder_disable{opacity:0}.form-change-password__error{font-weight:400;font-size:15px;line-height:140%;color:#f13f58;margin:5px 0 0 0;-ms-flex-item-align:start;align-self:start;position:absolute;top:calc(100% + 6px);left:0;-webkit-transition:.3s;transition:.3s}.form-change-password__span{font-weight:400;font-size:16px;line-height:140%;color:#6b95b9;-ms-flex-item-align:start;align-self:start;margin:50px 0 0 0}.form-change-password__span::before{content:"*";color:#ffb6c1;padding:0 5px 0 0}@media screen and (max-width: 1024px){.form-change-password__span{font-size:15px;line-height:140%}}.form-change-password__submit{font-weight:400;font-size:17px;line-height:21px;color:#0e406a;border:none;outline:none;cursor:pointer;background:#ffd970;border-radius:5px;padding:20px 40px;margin:30px 0 0 0;-webkit-transition:background .7s;transition:background .7s}.form-change-password__submit::after{content:"⟶";font-size:23px;padding:0 0 0 13px}.form-change-password__submit:hover{background:#d8c180}@media screen and (max-width: 1024px){.form-change-password__submit{font-size:16px;padding:18px 30px}}.form-change-password__submit_disable{background:#ffe292}.links-form{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;gap:35px;margin:30px 0 0 0}.links-form__link{font-weight:600;font-size:16px;line-height:19px;letter-spacing:.01em;color:#2b689b;text-decoration:none;-webkit-transition:color .7s;transition:color .7s}.links-form__link:hover{color:#ffb6c1}@media screen and (max-width: 1024px){.links-form__link{font-size:15px;line-height:140%}}body{font-family:"Manrope";margin:0 auto;background:linear-gradient(124.93deg, #F5FCFE 0%, #FFFCF4 99.63%)}
