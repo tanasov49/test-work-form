@@ -16,16 +16,31 @@
           </div>
           <h2 class="form-change-password__title">Изменение пароля</h2>
           <label class="form-change-password__field">
-            <input class="form-change-password__input" type="text" name="login" required />
+            <input class="form-change-password__input form-change-password__input_login" type="text" name="login" minlength="3" required />
             <span class="form-change-password__placeholder login-placeholder">Email / Логин</span>
             <span class="form-change-password__error login-error"></span>
           </label>
           <label class="form-change-password__field">
-            <input class="form-change-password__input" type="text" name="control" required />
+            <input class="form-change-password__input form-change-password__input_control" type="text" name="control" required />
             <span class="form-change-password__placeholder control-placeholder">Контрольная строка</span>
             <span class="form-change-password__error control-error"></span>
           </label>
+          <label class="form-change-password__field">
+            <input minlength="6" class="form-change-password__input form-change-password__input_password" type="password" name="password" required />
+            <span class="form-change-password__placeholder password-placeholder">Новый пароль</span>
+            <span class="form-change-password__error password-error"></span>
+          </label>
+          <label class="form-change-password__field">
+            <input minlength="6" class="form-change-password__input form-change-password__input_password-confirm" type="password" name="password-confirm" required />
+            <span class="form-change-password__placeholder password-confirm-placeholder">Подтверждение пароля</span>
+            <span class="form-change-password__error password-confirm-error"></span>
+          </label>
+          <span class="form-change-password__span"> Обязательные поля</span>
           <button type="submit" class="form-change-password__submit">Изменить пароль</button>
+          <div class="links-form">
+            <a href="#" class="links-form__link links-form__link_register">Зарегистироваться</a>
+            <a href="#" class="links-form__link links-form__link_autorization">Войти</a>
+          </div>
         </form>
       </div>
     </div>
