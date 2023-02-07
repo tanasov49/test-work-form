@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>test-work-form</title>
+</head>
+<body>
+  <div class="page">
+    <div class="popup">
+      <div class="popup-container">
+        <form action="#" class="form-change-password" novalidate>
+          <div class="logo">
+            <img class="logo__image" alt="logo-image" src="<%=require('./images/logo.png')%>" />
+          </div>
+          <h2 class="form-change-password__title">Изменение пароля</h2>
+          <input class="form-change-password__input form-change-password__input_login" type="text" name="login" placeholder="Email / Логин" required />
+          <span class="form-change-password__error form-change-password__error_login"></span>
+          <input class="form-change-password__input form-change-password__input_control" type="text" name="control" placeholder="Контрольная строка" required />
+          <span class="form-change-password__error form-change-password__error_control">Неверное контрольное слово</span>
+          <input class="form-change-password__input form-change-password__input_password" type="password" name="password" placeholder="Новый пароль" required />
+          <span class="form-change-password__error form-change-password__error_password">Пароль должен быть не менее 6 символов </span>
+          <input class="form-change-password__input form-change-password__input_password-confirm" type="password" name="confirm-password" placeholder="Подтверждение пароля" required />
+          <span class="form-change-password__error form-change-password__error_password">Пароли не совпадают</span>
+          <span class="form-change-password__span"> Обязательные поля</span>
+          <button type="submit" class="form-change-password__submit">Изменить пароль</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,22 @@
+@import '../vendor/normalize';
+// Импорт миксинов и переменных
+@import '../scss/mixins';
+@import '../scss/variables';
+// Иморт шрифтов
+@import url(../fonts/fonts.scss);
+@import '../blocks/page/page';
+@import '../blocks/popup/popup';
+@import '../blocks/popup-container/popup-container';
+@import '../blocks/form-change-password/form-change-password';
+@import '../blocks/logo/logo';
+@import'../blocks/logo/__image/logo__image';
+@import '../blocks/form-change-password/__title/form-change-password__title';
+@import '../blocks/form-change-password/__input/form-change-password__input';
+@import '../blocks/form-change-password/__error/form-change-password__error';
+@import '../blocks/form-change-password/__span/form-change-password__span';
+@import '../blocks/form-change-password/__submit/form-change-password__submit';
+body {
+    font-family: 'Manrope';
+    margin: 0 auto;
+    background: linear-gradient(124.93deg, #F5FCFE 0%, #FFFCF4 99.63%);
+}
